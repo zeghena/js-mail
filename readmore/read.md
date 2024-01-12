@@ -2,7 +2,7 @@
 nome repo: js-mail-dadi
 ## Mail
 - Chiedi all'utente la sua email 
-- crea una ARRAY diverse di mail con la mail dell'utente
+- crea una ARRAY  di diverse mail, con la mail dell'utente
 - controlla che sia nella lista di chi può accedere
 - stampa un messaggio appropriato sull'esito del controllo.
 

@@ -14,8 +14,11 @@ body {
 }
 
 #container {
-    background-color: var(--primary-color);
-    width: 80%;
+    text-align: center;
+
+    margin: 40px;
+    background-color: #0084fd;
+    width: 100%;
     height: 300px;
     border-radius: 5px;
     border: 1px solid darkblue;
