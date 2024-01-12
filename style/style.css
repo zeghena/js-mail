@@ -1,0 +1,22 @@
+:root {
+    --primary-color: #9792e4;
+    --secondary-color: #0084fd;
+    --card-bg-color: #b5ddff;
+    --card-color: #5b6f81;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    background-color: #9792e4;
+}
+
+#container {
+    background-color: var(--primary-color);
+    width: 80%;
+    height: 300px;
+    border-radius: 5px;
+    border: 1px solid darkblue;
+}
